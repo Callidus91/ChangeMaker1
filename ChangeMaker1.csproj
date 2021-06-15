@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\trgar\OneDrive\Desktop\Classwork\C# Assignments\ChangeMaker.cs" Link="ChangeMaker.cs" />
+  </ItemGroup>
+
 </Project>
